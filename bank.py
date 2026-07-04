@@ -1,7 +1,7 @@
 import bank_functions as Bank
 
 bank_accounts = {
-    "Ose": ["8130076487", 2680, 200000000]
+    "Ose": ["8130076487", 3423, 200000000]
 }
 
 while True:
